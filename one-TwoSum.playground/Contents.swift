@@ -1,21 +1,16 @@
-import UIKit
 
-class Solution {
-    var nums: [Int];
-    var target: Int;
-    
-    
-    init (_ nums:[Int], _ target:[Int]); -> [Int]{
-        var targets = [Int]();
-        for num in nums {
-            print(num);
-            
-        }
-        return targets;
-    };
-    
-}
+let nums = [9, 7, 11, 15];
+let target = 9;
 
-[2, 7, 11, 15]
+
+func twoSum (_ nums:[Int], _ target:Int) -> [Int]{
+    var targets = [Int]();
+    for index in 1...nums.count {
+        
+    }
+    return targets;
+};
+
+print("Result",twoSum(nums, target));
 
 
