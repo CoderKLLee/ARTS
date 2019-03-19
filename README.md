@@ -1,2 +1,2 @@
-# ARTS-Algorithm
-Record the algorithms in the ARTS program
+# ARTS
+ the ARTS program
